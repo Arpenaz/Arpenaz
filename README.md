@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anupkulkarni
-- 👀 I’m interested in Data Anlysis & python related things
+- 👀 I’m interested in Data Analysis & python related things
 - 🌱 I’m currently pursuing my btech
 - 💞️ I’m looking for internship opportunnites
 - 📫 Contact me - kulkarnianup353@gmail.com
